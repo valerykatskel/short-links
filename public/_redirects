@@ -1,0 +1,5 @@
+# Redirect all routes to index.html for SPA routing
+/*    /index.html   200
+
+# Handle short link redirects (this will be handled by React Router)
+# All other routes will be handled by the React app
